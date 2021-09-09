@@ -1,0 +1,46 @@
+{
+  "name": "tdd-com-node",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "statemente": 80,
+        "branches": 80,
+        "functions": 80,
+        "line": 80
+      },
+      "./src/services": {
+        "line": 100
+      }
+    }
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --detectOpenHandles --coverage",
+    "lint": "eslint src/** test/** --fix",
+    "secure-mode": "jest --watchAll --verbose=false --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "supertest": "^6.1.5"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "date-fns": "^2.23.0",
+    "express": "^4.17.1",
+    "husky": "7.0.2",
+    "jwt-simple": "^0.5.6",
+    "knex": "^0.21.21",
+    "knex-logger": "^0.1.0",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "pg": "^8.7.1"
+  }
+}
