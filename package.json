@@ -16,16 +16,12 @@
       }
     }
   },
+  "private": true,
   "scripts": {
     "start": "node src/server.js",
     "test": "jest --detectOpenHandles --coverage",
     "lint": "eslint src/** test/** --fix",
     "secure-mode": "jest --watchAll --verbose=false --detectOpenHandles"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint && npm test"
-    }
   },
   "author": "",
   "license": "ISC",
