@@ -23,6 +23,11 @@
     "lint": "eslint src/** test/** --fix",
     "secure-mode": "jest --watchAll --verbose=false --detectOpenHandles"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
