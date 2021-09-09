@@ -214,7 +214,7 @@ describe("Ao calcular o saldo do usuário", () => {
     expect(body[0].id).toBe(10100);
     expect(body[0].sum).toBe("-100.00");
     expect(body[1].id).toBe(10101);
-    expect(body[1].sum).toBe("300.00");
+    expect(body[1].sum).toBe("3000.000");
   });
 });
 

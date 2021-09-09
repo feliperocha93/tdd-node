@@ -22,10 +22,16 @@
     "lint": "eslint src/** test/** --fix",
     "secure-mode": "jest --watchAll --verbose=false --detectOpenHandles"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm test"
+    }
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.32.0",
+    "husky": "^7.0.2",
     "jest": "^27.0.6",
     "supertest": "^6.1.5"
   },
@@ -35,7 +41,6 @@
     "consign": "^0.1.6",
     "date-fns": "^2.23.0",
     "express": "^4.17.1",
-    "husky": "7.0.2",
     "jwt-simple": "^0.5.6",
     "knex": "^0.21.21",
     "knex-logger": "^0.1.0",
