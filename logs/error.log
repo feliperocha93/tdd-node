@@ -1,0 +1,203 @@
+{
+ "id": "8c3fda4a-982b-4676-84a0-d3b33353ff54",
+ "name": "ValidationError",
+ "message": "Descrição é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.280Z"
+}
+{
+ "id": "473a42c2-c9f7-427e-aeef-47b1b59d5498",
+ "name": "ValidationError",
+ "message": "Valor é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.323Z"
+}
+{
+ "id": "d338b2c4-41e2-45d2-900c-1e4ea944848e",
+ "name": "ValidationError",
+ "message": "Data é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.371Z"
+}
+{
+ "id": "e9545545-760e-44d7-8461-6c20a2dbaaad",
+ "name": "ValidationError",
+ "message": "Conta de origem é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.411Z"
+}
+{
+ "id": "67bae623-e673-493a-a1a8-f2cbf8cc3866",
+ "name": "ValidationError",
+ "message": "Conta de destino é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.460Z"
+}
+{
+ "id": "26780748-fb29-4e92-a0bf-154b4d54abf4",
+ "name": "ValidationError",
+ "message": "As contas devem ser diferentes",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.508Z"
+}
+{
+ "id": "ca0834a6-90e3-4bf0-9430-803e783b1092",
+ "name": "ValidationError",
+ "message": "Conta #10002 não pertence ao usuário",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.563Z"
+}
+{
+ "id": "a10f88a9-de9d-4d7f-b2f1-77ee53657b32",
+ "name": "ValidationError",
+ "message": "Descrição é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.728Z"
+}
+{
+ "id": "f433f41f-1547-43ec-90ea-821d38d6e07a",
+ "name": "ValidationError",
+ "message": "Valor é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.773Z"
+}
+{
+ "id": "0aba97b7-6ead-43a0-b07f-d6b27458e0a6",
+ "name": "ValidationError",
+ "message": "Data é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.821Z"
+}
+{
+ "id": "b3414887-96cd-4b5c-863a-eef3736afea9",
+ "name": "ValidationError",
+ "message": "Conta de origem é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.867Z"
+}
+{
+ "id": "0f0fd42d-5fe9-4a6b-b14c-f221dfdb2f56",
+ "name": "ValidationError",
+ "message": "Conta de destino é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.912Z"
+}
+{
+ "id": "feeab62d-77c2-4a8c-977b-d26705d34707",
+ "name": "ValidationError",
+ "message": "As contas devem ser diferentes",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:58.963Z"
+}
+{
+ "id": "1d3f59ca-7c51-4bfd-a306-985b6006b0d6",
+ "name": "ValidationError",
+ "message": "Conta #10002 não pertence ao usuário",
+ "level": "error",
+ "timestamp": "2021-10-06T21:23:59.015Z"
+}
+{
+ "id": "80f55d5d-2519-4fd8-b466-b3ff387d8f60",
+ "name": "ValidationError",
+ "message": "Usuário ou senha inválido",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:00.928Z"
+}
+{
+ "id": "6a983e01-c9c2-415c-a255-6cb3403c307e",
+ "name": "ValidationError",
+ "message": "Usuário ou senha inválido",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:00.969Z"
+}
+{
+ "id": "da932fb5-fe3e-405c-8722-2e6bbb526761",
+ "name": "ValidationError",
+ "message": "Descrição é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.304Z"
+}
+{
+ "id": "ae924bba-3696-4af1-91fe-394cb7a9ab21",
+ "name": "ValidationError",
+ "message": "Valor é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.351Z"
+}
+{
+ "id": "3269586a-5c1f-4c91-9cac-ff0ecc1e2106",
+ "name": "ValidationError",
+ "message": "Data é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.399Z"
+}
+{
+ "id": "47dbc5cb-63a4-421a-9dd3-93919abbc758",
+ "name": "ValidationError",
+ "message": "Conta é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.453Z"
+}
+{
+ "id": "80186add-eab7-48e7-9f03-c75ad050de84",
+ "name": "ValidationError",
+ "message": "Tipo é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.497Z"
+}
+{
+ "id": "c6a7a598-5674-40b4-82c1-d7acb2bce5ff",
+ "name": "ValidationError",
+ "message": "Tipo inválido",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.546Z"
+}
+{
+ "id": "f937ceeb-d3bc-4260-8021-1281f08420d2",
+ "name": "ValidationError",
+ "message": "Essa conta possui transações associadas",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:03.791Z"
+}
+{
+ "id": "200b2588-7edf-4735-9171-4ff91b1b9438",
+ "name": "ValidationError",
+ "message": "Já existe uma conta com esse nome",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:05.057Z"
+}
+{
+ "id": "e2f3d453-47ca-47f0-b675-24bc4476f6d4",
+ "name": "ValidationError",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:05.112Z"
+}
+{
+ "id": "ab74a15e-4495-4ec3-88f5-f460a0934eb3",
+ "name": "ValidationError",
+ "message": "Nome é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:06.631Z"
+}
+{
+ "id": "4c84796f-7221-47c4-8d22-d22fb9d139eb",
+ "name": "ValidationError",
+ "message": "Email é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:06.684Z"
+}
+{
+ "id": "ec877011-4459-448a-a7f2-23459e7315a5",
+ "name": "ValidationError",
+ "message": "Senha é um atributo obrigatório",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:06.733Z"
+}
+{
+ "id": "813b9666-0145-4d05-a2ce-c3c8310d1906",
+ "name": "ValidationError",
+ "message": "Já existe um usuário com esse email",
+ "level": "error",
+ "timestamp": "2021-10-06T21:24:06.784Z"
+}
