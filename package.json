@@ -2,7 +2,7 @@
   "name": "tdd-com-node",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "jest": {
     "coverageThreshold": {
       "global": {
